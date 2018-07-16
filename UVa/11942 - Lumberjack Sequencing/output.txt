@@ -1,7 +1,0 @@
-Lumberjacks:
-	2
-Ordered
-	1
-Unordered
-	0
-Unordered
