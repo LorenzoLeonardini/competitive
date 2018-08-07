@@ -1,3 +1,10 @@
+/**
+	UVa 10107 - What is the Median?
+	by Lorenzo Leonardini
+	Submitted: 2018-08-04
+	Accepted 0.550 C++
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

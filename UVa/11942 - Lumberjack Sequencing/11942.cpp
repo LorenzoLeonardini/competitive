@@ -1,3 +1,10 @@
+/**
+	UVa 11942 - Lumberjack Sequencing
+	by Lorenzo Leonardini
+	Submitted: 2018-07-04
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 
 int main(void)

@@ -1,3 +1,10 @@
+/**
+	UVa 10038 - Jolly Jumpers
+	by Lorenzo Leonardini
+	Submitted: 2018-07-17
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 
 #define ABS(x) (x > 0 ? x : x * -1)
@@ -49,4 +56,3 @@ int main(void)
 
 	return 0;
 }
-

@@ -1,3 +1,10 @@
+/**
+	UVa 272 - TEX Quotes
+	by Lorenzo Leonardini
+	Submitted: 2018-06-30
+	Accepted 0.000 C
+*/
+
 #include <stdio.h>
 
 #define true 1

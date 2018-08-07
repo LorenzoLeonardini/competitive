@@ -1,3 +1,10 @@
+/**
+	UVa 11933 - Splitting Numbers
+	by Lorenzo Leonardini
+	Submitted: 2018-08-05
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 
 int main(void)
@@ -7,7 +14,7 @@ int main(void)
 	{
 		scanf("%d", &n);
 		if(!n) break;
-		
+
 		int a = 0, b = 0;
 		int k = 1;
 		for(int i = 0; i < 32; i++)

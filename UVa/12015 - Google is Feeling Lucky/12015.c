@@ -1,3 +1,10 @@
+/**
+	UVa 12015 - Google is Feeling Lucky
+	by Lorenzo Leonardini
+	Submitted: 2018-07-04
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -5,7 +12,7 @@ typedef struct
 {
 	char url[101];
 	int rate;
-} site;	
+} site;
 
 int cmp(const void* aa, const void* bb)
 {

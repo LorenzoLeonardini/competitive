@@ -1,3 +1,10 @@
+/**
+	UVa 594 - One Little, Two Little, Three Little Endians
+	by Lorenzo Leonardini
+	Submitted: 2018-08-05
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 
 int main(void)

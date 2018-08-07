@@ -1,3 +1,10 @@
+/**
+	UVa 11332 - Summing Digits
+	by Lorenzo Leonardini
+	Submitted: 2018-06-30
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 
 long long f(long long n)

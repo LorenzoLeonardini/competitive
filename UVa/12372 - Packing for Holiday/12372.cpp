@@ -1,3 +1,10 @@
+/**
+	UVa 12372 - Packing for Holiday
+	by Lorenzo Leonardini
+	Submitted: 2018-06-30
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 
 int main(void)

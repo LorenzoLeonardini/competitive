@@ -1,3 +1,10 @@
+/**
+	UVa 146 - ID Codes
+	by Lorenzo Leonardini
+	Submitted: 2018-08-04
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <algorithm>

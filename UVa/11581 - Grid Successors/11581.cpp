@@ -1,3 +1,10 @@
+/**
+	UVa 11581 - Grid Successors
+	by Lorenzo Leonardini
+	Submitted: 2018-08-04
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 
 char grid[100000][3][3];
@@ -42,7 +49,7 @@ int main(void)
 				scanf("\n");
 		}
 		printf("%d\n", f(0));
-		
+
 		if(n >= 1)
 			scanf("\n");
 	}

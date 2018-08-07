@@ -1,3 +1,10 @@
+/**
+	UVa 11988 - Broken Keyboard (a.k.a. Beiju Text)
+	by Lorenzo Leonardini
+	Submitted: 2018-08-05
+	Accepted 0.200 C++
+*/
+
 #include <stdio.h>
 #include <list>
 

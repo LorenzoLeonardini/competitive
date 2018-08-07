@@ -1,3 +1,10 @@
+/**
+	UVa 621 - Secret Research
+	by Lorenzo Leonardini
+	Submitted: 2018-06-30
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 #include <string.h>
 

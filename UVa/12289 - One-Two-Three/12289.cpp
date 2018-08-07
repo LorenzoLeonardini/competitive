@@ -1,3 +1,10 @@
+/**
+	UVa 12289 - One-Two-Three
+	by Lorenzo Leonardini
+	Submitted: 2018-06-30
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 
 int main(void)

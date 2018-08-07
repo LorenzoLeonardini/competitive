@@ -1,3 +1,10 @@
+/**
+	UVa 11034 - Ferry Loading IV
+	by Lorenzo Leonardini
+	Submitted: 2018-08-06
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 #include <queue>
 #include <string.h>
@@ -79,5 +86,3 @@ int main(void)
 
 	return 0;
 }
-
-

@@ -1,3 +1,10 @@
+/**
+	UVa 10258 - Contest Scoreboard
+	by Lorenzo Leonardini
+	Submitted: 2018-08-05
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -60,13 +67,13 @@ int main(void)
 			}
 			players[pl].penalty[pr] += 20;
 		}
-	
+
 		for(int i = 0; i < 100; i++)
 			for(int j = 0; j < 10; j++)
 				players[i].totalPenalty += players[i].penalty[j] * players[i].solved[j];
-	
+
 		qsort(players, 100, sizeof(player), cmp);
-	
+
 		for(int i = 0; i < 100; i++)
 		{
 			if(players[i].id == -1) continue;

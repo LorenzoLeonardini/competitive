@@ -1,3 +1,10 @@
+/**
+	UVa 482 - Permutation Arrays
+	by Lorenzo Leonardini
+	Submitted: 2018-07-17
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 #include <vector>
 #include <string.h>

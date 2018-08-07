@@ -1,3 +1,10 @@
+/**
+	UVa 1062 - Containers
+	by Lorenzo Leonardini
+	Submitted: 2018-08-05
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 #include <stack>
 #include <string.h>

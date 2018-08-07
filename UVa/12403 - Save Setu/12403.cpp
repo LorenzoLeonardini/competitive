@@ -1,3 +1,10 @@
+/**
+	UVa 12403 - Save Setu
+	by Lorenzo Leonardini
+	Submitted: 2018-06-30
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 #include <string.h>
 

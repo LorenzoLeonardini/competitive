@@ -1,3 +1,10 @@
+/**
+	UVa 12577 - Hajj-e-Akbar
+	by Lorenzo Leonardini
+	Submitted: 2018-06-30
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 #include <string.h>
 
@@ -9,7 +16,7 @@ int main(void)
 	{
 		char s[6];
 		scanf("%s", s);
-		
+
 		if(strcmp(s, "*") == 0)
 			break;
 		if(strcmp(s, "Hajj") == 0)

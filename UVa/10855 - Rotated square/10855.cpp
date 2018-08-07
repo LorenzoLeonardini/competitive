@@ -1,3 +1,10 @@
+/**
+	UVa 10855 - Rotated square
+	by Lorenzo Leonardini
+	Submitted: 2018-08-04
+	Accepted 0.010 C++
+*/
+
 #include <stdio.h>
 
 void rotate(char *array, int size)

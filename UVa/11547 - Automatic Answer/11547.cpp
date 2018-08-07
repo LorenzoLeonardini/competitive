@@ -1,10 +1,17 @@
+/**
+	UVa 11547 - Automatic Answer
+	by Lorenzo Leonardini
+	Submitted: 2018-06-30
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 
 int main(void)
 {
 	int t;
 	scanf("%d", &t);
-	
+
 	while(t--)
 	{
 		int n;

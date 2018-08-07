@@ -1,3 +1,10 @@
+/**
+	UVa 10264 - The Most Potent Corner
+	by Lorenzo Leonardini
+	Submitted: 2018-08-05
+	Accepted 1.890 C++
+*/
+
 #include <stdio.h>
 #include <math.h>
 

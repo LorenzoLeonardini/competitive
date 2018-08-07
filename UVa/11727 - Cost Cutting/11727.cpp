@@ -1,10 +1,17 @@
+/**
+	UVa 11727 - Cost Cutting
+	by Lorenzo Leonardini
+	Submitted: 2018-06-30
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 
 int main(void)
 {
 	int T;
 	scanf("%d", &T);
-	
+
 	for(int t = 1; t <= T; t++)
 	{
 		int sum = 0, min = 100000000, max =0;

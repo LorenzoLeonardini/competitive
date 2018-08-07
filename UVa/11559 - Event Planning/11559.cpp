@@ -1,3 +1,10 @@
+/**
+	UVa 11559 - Event Planning
+	by Lorenzo Leonardini
+	Submitted: 2018-07-02
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 
 int main(void)

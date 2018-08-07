@@ -1,3 +1,10 @@
+/**
+	UVa 230 - Borrowers
+	by Lorenzo Leonardini
+	Submitted: 2018-07-16
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <vector>
@@ -29,7 +36,7 @@ bool sort(book a, book b)
 }
 
 int main(void)
-{	
+{
 	std::vector<book> books;
 
 	// Read books
@@ -64,7 +71,7 @@ int main(void)
 
 		books.push_back(a);
 	}
-	
+
 	// Sorting
 	std::sort(books.begin(), books.end(), sort);
 
@@ -73,7 +80,7 @@ int main(void)
 	{
 		char instruction[10];
 		scanf("%s", instruction);
-		
+
 		if(strcmp("END", instruction) == 0)
 			break;
 
@@ -81,7 +88,7 @@ int main(void)
 		{
 			char book[100];
 			scanf("%[^\n]%*c", book);
-			
+
 			int i = 1;
 			for(; i < strlen(book); i++)
 				book[i - 1] = book[i];

@@ -1,3 +1,10 @@
+/**
+	UVa 10901 - Ferry Loading III
+	by Lorenzo Leonardini
+	Submitted: 2018-08-06
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 #include <queue>
 #include <string.h>
@@ -41,7 +48,7 @@ int main(void)
 			while(carsR[time]--)
 				right.push(counter++);
 			}
-			
+
 			if(--changing > 0)
 				continue;
 

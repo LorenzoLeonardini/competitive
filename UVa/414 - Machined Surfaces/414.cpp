@@ -1,3 +1,10 @@
+/**
+	UVa 414 - Machined Surfaces
+	by Lorenzo Leonardini
+	Submitted: 2018-07-16
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 
 int main(void)

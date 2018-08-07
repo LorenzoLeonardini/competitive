@@ -1,3 +1,10 @@
+/**
+	UVa 11044 - Searching for Nessy
+	by Lorenzo Leonardini
+	Submitted: 2018-06-30
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 
 int main(void)

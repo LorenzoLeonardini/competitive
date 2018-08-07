@@ -1,3 +1,10 @@
+/**
+	UVa 11764 - Jumping Mario
+	by Lorenzo Leonardini
+	Submitted: 2018-07-03
+	Accepted 0.000 C++
+*/
+
 #include <stdio.h>
 
 int main(void)
@@ -30,6 +37,6 @@ int main(void)
 
 		printf("Case %d: %d %d\n", t, high, low);
 	}
-	
+
 	return 0;
 }

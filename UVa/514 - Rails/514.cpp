@@ -1,3 +1,10 @@
+/**
+	UVa 514 - Rails
+	by Lorenzo Leonardini
+	Submitted: 2018-08-05
+	Accepted 0.030 C++
+*/
+
 #include <stdio.h>
 #include <stack>
 
