@@ -1,3 +1,11 @@
+/**
+	UVa 100 - The 3n + 1 problem
+	by Lorenzo Leonardini
+	Submitted: 2018-10-30
+	Accepted 0.320 C++
+*/
+
+
 #include <stdio.h>
 
 int main(void) {
