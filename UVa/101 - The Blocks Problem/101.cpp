@@ -5,7 +5,6 @@
 	Accepted 0.000 C++
 */
 
-
 #include <iostream>
 #include <stack>
 #include <string>
